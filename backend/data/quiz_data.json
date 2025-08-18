@@ -1,0 +1,48 @@
+{
+    "physics": [
+        {
+            "id": 1,
+            "question": "What is a scalar quantity?",
+            "options": ["Has magnitude only", "Has direction only", "Has both magnitude and direction", "None of the above"],
+            "answer": "Has magnitude only",
+            "topic": "scalar_vectors"
+        },
+        {
+            "id": 2,
+            "question": "What is a vector quantity?",
+            "options": ["Has magnitude only", "Has direction only", "Has both magnitude and direction", "None of the above"],
+            "answer": "Has both magnitude and direction",
+            "topic": "scalar_vectors"
+        },
+        {
+            "id": 3,
+            "question": "What is the unit of force?",
+            "options": ["Newton", "Joule", "Watt", "Pascal"],
+            "answer": "Newton",
+            "topic": "forces"
+        },
+        {
+            "id": 4,
+            "question": "What is Newton's first law?",
+            "options": ["F=ma", "Objects at rest stay at rest unless acted upon", "For every action, there is an equal and opposite reaction", "None of the above"],
+            "answer": "Objects at rest stay at rest unless acted upon",
+            "topic": "newtons_laws"
+        }
+    ],
+    "arabic": [
+        {
+            "id": 1,
+            "question": "What is the difference between past and present tense?",
+            "options": ["Past describes present", "Present describes past", "Past describes completed events", "None of the above"],
+            "answer": "Past describes completed events",
+            "topic": "verb_tenses"
+        },
+        {
+            "id": 2,
+            "question": "What is a noun in Arabic grammar?",
+            "options": ["A word describing an action", "A word naming a person, place, or thing", "A word modifying a verb", "A word connecting clauses"],
+            "answer": "A word naming a person, place, or thing",
+            "topic": "nouns"
+        }
+    ]
+}
