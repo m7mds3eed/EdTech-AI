@@ -18,12 +18,13 @@ This is a full-stack educational application designed to help students, parents,
 
 ### Backend (FastAPI)
 
-  * **RESTful API:** A robust and scalable API to handle all application requests.
-  * **User authentication:** Secure user registration and login functionality.
-  * **Database management:** SQLite database to store user data, quiz questions, and results.
-  * **AI-powered features:** Integration with OpenAI to generate quiz questions, hints, and explanations.
-  * **Supervisor AI:** An AI-powered system to validate the quality and correctness of quiz questions.
-  * **Detailed analytics:** Endpoints to provide detailed analytics for students, parents, and teachers.
+* **RESTful API:** A robust and scalable API engineered to handle all application requests, from user authentication to complex data queries.
+* **Adaptive Learning Engine:** Implements a **Bayesian Knowledge Tracing (BKT)** model to dynamically track student mastery in real-time and deliver personalized, adaptive learning paths.
+* **AI Content Generation:** Integrates with OpenAI to dynamically generate a rich variety of quiz questions, contextual hints, and comprehensive mini-lessons, ensuring a constantly evolving content library.
+* **Supervisor AI:** An autonomous AI-powered system that validates the quality and mathematical correctness of all quiz questions, guaranteeing high educational standards and accuracy.
+* **Role-Based Analytics Engine:** Provides detailed, aggregated analytics endpoints tailored specifically for students, parents, and teachers, transforming raw data into actionable insights.
+* **Secure Authentication:** Manages secure user registration, login, and session handling with role-based access control for all user types.
+* **Database Management:** Utilizes an SQLite database to efficiently store and manage all application data, including user profiles, class structures, assignments, and granular student results.
 
 -----
 
